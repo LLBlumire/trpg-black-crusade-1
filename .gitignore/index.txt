@@ -1,0 +1,32 @@
+AWKN - Stasis Pod, prison ship, environment dusty, poorly Lit. No cause for alarm.
+NOBS - Not alone, 3 other entities. Human, Human, Adeptus Astartes.
+NOBS - Room contains Cogitator. 
+NACC - Cogitator Accessible. 
+NINF - Entities are Conroy, Nadia, Tsarn.
+NINF - Console shows rebellion, followed by system shutdown, attempted termination of prisoners.
+NINF - Duration of Stasis: ~200 Terran Years.
+NOBS - Tsarn physically opened door, began attempting to leave.
+NOBS - Conroy interfaced with system, triggered deployment of Servoskull
+NACC - Servoskull Accessible. Re-identified KNW
+NINF - Location of DOT and other equipment in Investigation Lab 5, route planned.
+CONV - Discussed route with Conroy, Nadia, Tsarn. Established route. Team shall provide muscle.
+JRNY - Movement to corridoor beside Investigation Lab 5.
+BTTL - Unknown Bestial Humanoid attack. Remained in cover. Allowed Team to Dispatch.
+NOBS - DOT not responding to proximity activation. Not in Investigation Lab 5 Still?
+ROBS - Investigation Lab 5 contains stasis chambers. All team armed.
+DIAG - BOB's systems functional.
+DIAG - CUT's systems functional.
+DIAG - DOT's systems functional. Greating Pleasent.
+CONV - Discussed progression with team, require futher munitions. Bridge access. Gellar Field deactivation.
+NACC - KNW.
+NINF - Map consulted, route planned. Bridge on Highest Level, Armory on Upper Deck.
+CONV - Route relayed, plan accepted, depart.
+JRNY - Door reached, open, cogitator visible.
+NACC - Cogitator accessible. 
+NINF - Permissions for door required, level 3. Access is genetic cryptography.
+NACC - KNW.
+NINF - Level 3 correspends to officers. Officers stationed in Wardens Tower, Lower Decks.
+CONV - Relay access requirements, desire to ensure safe passage and exit.
+XINT - Team advanced through door. Team shot at by sentry turrets. Level 3 access required.
+CONV - Team reprimanded. Route to Wardens Tower esablished. Depart.
+

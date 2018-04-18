@@ -6,8 +6,8 @@ NINF - Entities are Conroy, Nadia, Tsarn.
 NINF - Console shows rebellion, followed by system shutdown, attempted termination of prisoners.
 NINF - Duration of Stasis: ~200 Terran Years.
 NOBS - Tsarn physically opened door, began attempting to leave.
-NOBS - Conroy interfaced with system, triggered deployment of Servoskull
-NACC - Servoskull Accessible. Re-identified KNW
+NOBS - Conroy interfaced with system, triggered deployment of Servoskull.
+NACC - Servoskull Accessible. Re-identified KNW.
 NINF - Location of DOT and other equipment in Investigation Lab 5, route planned.
 CONV - Discussed route with Conroy, Nadia, Tsarn. Established route. Team shall provide muscle.
 JRNY - Movement to corridoor beside Investigation Lab 5.
